@@ -28,6 +28,9 @@ npm install
 ### 4. Start the Development Server
 npm run dev
 
+## Live Demo
+
+You can test the deployed version of the website [here](https://todo-assignment-dy191odwd-apoorv-rajs-projects.vercel.app/).
 
 # This project require installation of Tailwind with vite 
 
